@@ -4,4 +4,4 @@
 
 ## Learn Struphy in Jupyter notebooks
 
-Start right away at [mybinder.org](https://hub.gesis.mybinder.org/user/struphy-hub-struphy-72q8s0vw/lab/workspaces/auto-q).
+Start right away at https://mybinder.org/v2/gh/struphy-hub/struphy-tutorials/main.
