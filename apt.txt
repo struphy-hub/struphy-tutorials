@@ -3,3 +3,13 @@ gcc
 liblapack-dev
 libblas-dev
 git
+
+# for gvec
+cmake
+cmake-curses-gui
+g++
+liblapack3
+zlib1g-dev
+libnetcdf-dev
+libnetcdff-dev
+
